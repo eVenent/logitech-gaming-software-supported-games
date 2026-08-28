@@ -1,12 +1,14 @@
 # Logitech G HUB supported games list
 
-This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2025.3, released on 2025/03/24.
+This is a list of games supported by Logitech G HUB software. It is accurate as of G HUB version 2026.1, released on 2026/01/20.
 
-There are 702 games on this list.
+There are 783 games on this list.
 
 > 007 Legends  
+> 33 Immortals  
 > 3D Ultra Minigolf Adventures  
 > 7 Days to Die  
+> Abyssus  
 > Age of Empires 2 Definitive Edition  
 > Age of Empires IV  
 > Age of Wonders 4  
@@ -29,6 +31,7 @@ There are 702 games on this list.
 > Anomaly: Warzone Earth  
 > Anthem  
 > Apex Legends  
+> ARC Raiders  
 > A.R.E.S.  
 > ARK: Survival Ascended  
 > ARK: Survival Evolved  
@@ -44,16 +47,19 @@ There are 702 games on this list.
 > Assassins Creed Mirage  
 > Assassin's Creed Odyssey  
 > Assassin's Creed Origins  
+> Assassin's Creed Shadows  
 > Assassin's Creed Unity  
 > Assassins Creed Valhalla  
 > Assetto Corsa  
 > Assetto Corsa Competizione  
 > Assetto Corsa EVO  
 > ASTRONEER  
+> Atomfall  
 > Atomic Heart  
 > Audiosurf  
 > Automobilista 2  
 > Avatar Frontiers of Pandora  
+> Aviassembly  
 > Avowed  
 > A Plague Tale: Requiem  
 > A Plague Tale: Innocence  
@@ -73,6 +79,7 @@ There are 702 games on this list.
 > Battlefield 2  
 > Battlefield 3  
 > Battlefield 4  
+> Battlefield 6  
 > Battlefield Bad Company 2  
 > Battlefield Hardline  
 > Battlefield V  
@@ -90,6 +97,7 @@ There are 702 games on this list.
 > BLACKTAIL  
 > Black Desert Online Remastered  
 > Black Myth: Wukong  
+> Blades of Fire  
 > Blair Witch  
 > Bless Unleashed  
 > Bloody Good Time  
@@ -102,10 +110,12 @@ There are 702 games on this list.
 > Borderlands  
 > Borderlands 2  
 > Borderlands 3  
+> Borderlands 4  
 > Borderlands: The Pre-Sequel  
 > Brawlhalla  
 > Breakwaters  
 > Brink  
+> Broken Arrow  
 > Brothers: A Tale of Two Sons Remake  
 > Bulletstorm  
 > Burnout Paradise  
@@ -113,6 +123,7 @@ There are 702 games on this list.
 > Call of Duty: Black Ops  
 > Call of Duty: Black Ops 4  
 > Call of Duty: Black Ops 6  
+> Call of Duty: Black Ops 7  
 > Call of Duty: Black Ops Cold War  
 > Call of Duty: Black Ops II (single player)  
 > Call of Duty: Black Ops III  
@@ -126,6 +137,8 @@ There are 702 games on this list.
 > Capcom Arcade Stadium  
 > Capsized  
 > Carmageddon 2  
+> Carmen Sandiego  
+> CarX Drift Racing Online  
 > Century: Age of Ashes  
 > Chained Together  
 > I Love You, Colonel Sanders! A Finger Lickin’ Good Dating Simulator  
@@ -137,6 +150,7 @@ There are 702 games on this list.
 > Chorus  
 > Chrono Trigger  
 > Cities Skylines  
+> Clair Obscur: Expedition 33  
 > Classified: France '44  
 > Cold Zero  
 > Company of Heroes 2  
@@ -181,6 +195,7 @@ There are 702 games on this list.
 > DCS World Steam Edition  
 > Deadlight  
 > Deadnaut Signal Lost  
+> Deadzone Rogue  
 > Dead by Daylight  
 > Dead Island  
 > Dead Island 2  
@@ -197,9 +212,11 @@ There are 702 games on this list.
 > Deceive Inc  
 > Deep Rock Galactic  
 > Deliver Us Mars  
+> DELTARUNE  
 > Delta Force  
 > Demon Dark I  
 > Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles  
+> Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2  
 > APPLICATION_NAME_DESKTOP  
 > Destiny 2  
 > Destroy All Humans! 2 - Reprobed  
@@ -215,11 +232,14 @@ There are 702 games on this list.
 > Dishonored 2  
 > Dishonored-Definitive Edition  
 > Disney Dreamlight Valley  
+> Dispatch  
 > Divine Knockout  
 > Divinity Original Sin 2  
 > Don't Starve Together  
 > DOOM  
+> DOOM + DOOM II  
 > DOOM Eternal  
+> DOOM: The Dark Ages  
 > Dota 2  
 > Dota Underlords  
 > Dragon's Dogma 2  
@@ -229,24 +249,31 @@ There are 702 games on this list.
 > DRAGON BALL: THE BREAKERS  
 > Dragon Quest XI S: Echoes of An Elusive Age - Definitive Edition  
 > Dragon Quest XI: Echoes of an Elusive Age  
+> Dune: Awakening  
 > Dune: Spice Wars  
+> Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition  
 > Dustborn  
 > Dying Light  
 > Dying Light 2 Stay Human  
 > Dying Light 2 Stay Human  
+> Dying Light: The Beast  
 > DYNASTY WARRIORS: ORIGINS  
 > EA SPORTS FC 24  
+> EA SPORTS FC 26  
 > EA SPORTS FIFA 23  
 > EA SPORTS Madden NFL 25  
+> EA SPORTS Madden NFL 26  
 > Edge of Eternity  
 > Eiyuden Chronicle: Rising  
 > ELDEN RING  
+> ELDEN RING NIGHTREIGN  
 > ELDEN RING Shadow of the Erdtree  
 > ELEX II  
 > Elite Dangerous  
 > Escape From Tarkov  
 > Escape From Tarkov Arena  
 > Europa Universalis IV  
+> Europa Universalis V  
 > Euro Truck Simulator 2  
 > EVE Online  
 > Evil Genius 2 World Domination  
@@ -261,6 +288,7 @@ There are 702 games on this list.
 > F1 22  
 > F1 23  
 > F1 24  
+> F1 25  
 > F1 Manager 2022  
 > F1 Manager 2024  
 > Factorio  
@@ -276,6 +304,7 @@ There are 702 games on this list.
 > Far Cry 6  
 > Far Cry Primal  
 > FATAL FRAME / PROJECT ZERO: Maiden of Black Water  
+> FATAL FURY: City of the Wolves  
 > Fate of the Dragon  
 > FEAR2  
 > F.E.A.R. 3  
@@ -289,6 +318,7 @@ There are 702 games on this list.
 > FINAL FANTASY XVI  
 > First Class Trouble  
 > FIST Forged In Shadow Torch  
+> Five Nights at Freddy's: Secret of the Mimic  
 > Flight Simulator X  
 > Flintlock: The Siege of Dawn  
 > Floodland  
@@ -296,16 +326,20 @@ There are 702 games on this list.
 > Football Manager 2021  
 > Football Manager 2022  
 > Football Manager 2023  
+> Football Manager 26  
+> Formula Legends  
 > Fortnite  
 > Forza Horizon 5  
 > Forza Motorsport  
 > For Honor  
 > FOUNDRY  
+> FragPunk  
 > Frank and Drake  
 > Frostpunk  
 > Frostpunk 2  
 > Garrys Mod  
 > Gears 5  
+> Gears of War: Reloaded  
 > Genshin Impact  
 > Ghostrunner  
 > Ghosts 'N Goblins Resurrection  
@@ -356,7 +390,9 @@ There are 702 games on this list.
 > Horizon Zero Dawn Complete Edition  
 > HUMANKIND  
 > Human Fall Flat  
+> HUNTER HUNTER NEN IMPACT  
 > Hunt:Showdown  
+> HYPERCHARGE: Unboxed  
 > Hyper Scape  
 > Immortals Fenyx Rising  
 > Immortals Of Aveum  
@@ -367,9 +403,11 @@ There are 702 games on this list.
 > iRacing  
 > It Takes Two  
 > IXION  
+> JDM: Japanese Drift Master  
 > Star Wars Jedi: Fallen Order  
 > JETT: The Far Shore  
 > JoJos Bizarre Adventure: All-Star Battle  
+> Journey To The Savage Planet  
 > Just DIe Already  
 > KartRider Drift  
 > Kerbal Space Program  
@@ -378,6 +416,7 @@ There are 702 games on this list.
 > Kingdom Hearts HD 2.8 Final Chapter Prologue  
 > Kingdom Hearts HD 1.5 + 2.5 ReMix  
 > Kingdom Hearts Melody of Memory  
+> Killing Floor 3  
 > Kingdom Come: Deliverance  
 > Kingdom Come: Deliverance II  
 > Kingdom Hearts 3 + Re Mind  
@@ -399,14 +438,17 @@ There are 702 games on this list.
 > Life is Strange: True Colors  
 > Like a Dragon Gaiden The Man Who Erased His Name  
 > Like a Dragon: Infinite Wealth  
+> Like a Dragon: Pirate Yakuza in Hawaii  
 > Little Nightmares II  
 > Little Witch in the Woods  
+> Loco Motive  
 > Lost Ark  
 > Lumberhill  
 > Madden NFL 21  
 > Madden NFL 22  
 > Madden NFL 23  
 > Madden NFL 24  
+> Mafia: The Old Country  
 > Magic The Gathering Arena  
 > Marvel's Avengers  
 > Marvels Guardians of the Galaxy  
@@ -414,11 +456,13 @@ There are 702 games on this list.
 > Marvels Spider-Man 2  
 > Marvels Spider-Man Miles Morales  
 > Marvels Spider-Man Remastered  
+> MARVEL Cosmic Invasion  
 > Marvel Rivals  
 > Mass Effect Legendary Edition  
 > Mass Effect: Andromeda  
 > Mass Effect: Andromeda Deluxe Edition  
 > MechWarrior 5: Clans  
+> METAL GEAR SOLID DELTA: SNAKE EATER  
 > METAL GEAR SOLID V: THE PHANTOM PAIN  
 > Metal Gear Survive  
 > Metal: Hellsinger  
@@ -427,10 +471,12 @@ There are 702 games on this list.
 > Microsoft Flight Simulator 2024  
 > Middle-earth: Shadow of Mordor  
 > Middle-earth:Shadow of War  
+> MIMESIS  
 > Minecraft  
 > Monster Hunter Rise  
 > Monster Hunter Stories  
 > Monster Hunter Stories 2: Wings of Ruin  
+> Monster Hunter Wilds  
 > Monster Hunter: World  
 > Moonlighter  
 > Mordhau  
@@ -448,6 +494,7 @@ There are 702 games on this list.
 > NBA 2K23  
 > NBA 2K24  
 > NBA 2K25  
+> NBA 2K26  
 > Need for Speed Heat  
 > Need for Speed Undercover  
 > Neptunia:Sisters VS Sisters  
@@ -458,15 +505,20 @@ There are 702 games on this list.
 > NieR Replicant ver.1.22474487139...  
 > Nightingale  
 > NINJA GAIDEN 2 Black  
+> NINJA GAIDEN: Ragebound  
 > Nioh 2 - The Complete Edition  
 > No Man's Sky  
 > No Rest for the Wicked  
 > Nuts  
+> OCTOPATH TRAVELER 0  
 > OCTOPATH TRAVELER II  
 > Off The Grid  
+> Of Ash and Steel  
 > Old School RuneScape  
+> Old Skies  
 > Once Human  
 > One Hand Clapping  
+> Onimusha 2: Samurai's Destiny  
 > Only Up  
 > Orcs Must Die 3  
 > Outriders  
@@ -480,6 +532,7 @@ There are 702 games on this list.
 > PAYDAY 2  
 > PAYDAY 3  
 > PC Building Simulator 2  
+> PEAK  
 > Persona 3 Reload  
 > Persona 4 Arena Ultimax  
 > Persona 4 Golden  
@@ -489,6 +542,7 @@ There are 702 games on this list.
 > Phantasy Star Online 2 New Genesis  
 > Phantom Fury  
 > Photoshop CC  
+> Pioneers of Pagonia  
 > PlayerUnknown's Battlegrounds  
 > Police Simulator: Patrol Officers  
 > Postal 4  
@@ -506,16 +560,19 @@ There are 702 games on this list.
 > Rainbow Six Vegas  
 > Ready or Not  
 > Red Dead Redemption 2  
+> REMATCH  
 > Remnant II  
 > Resident Evil Village  
 > Resident Evil 2  
 > Resident Evil 3  
 > Resident Evil 4  
 > RESONANCE OF FATE/END OF ETERNITY 4K/HD EDITION  
+> Revenge of the Savage Planet  
 > Reverse 1999  
 > rFactor  
 > Riders Republic  
 > Rim World  
+> Rise of the Ronin  
 > Rise of the Tomb Raider  
 > Road 96  
 > RoboCop Rogue City  
@@ -532,6 +589,7 @@ There are 702 games on this list.
 > Rune II Decapitation Edition  
 > Rust  
 > Rustler  
+> R.E.P.O.  
 > Saints Row  
 > Saints Row IV: Re-Elected  
 > Sakuna Of Rice and Ruin  
@@ -552,6 +610,7 @@ There are 702 games on this list.
 > Shadow Warrior 3  
 > Sherlock Holmes Chapter One  
 > Sherlock Holmes: Crimes & Punishments  
+> SHINOBI: Art of Vengeance  
 > Shin Megami Tensei V: Vengeance  
 > Shop Titans  
 > Shovel Knight Pocket Dungeon  
@@ -570,16 +629,23 @@ There are 702 games on this list.
 > Sniper Elite: Resistance  
 > SNK VS. CAPCOM SVC CHAOS  
 > SnowRunner  
+> Solo Leveling: ARISE OVERDRIVE  
+> Sol Cesto  
 > Sonic Frontiers  
+> Sonic Rumble  
 > Sons Of The Forest  
 > Soulstice  
 > Soul Hackers 2  
+> South of Midnight  
 > SOUTH PARK: SNOW DAY!  
 > South Park The Fractured But Whole  
 > Spacebase Startopia  
 > Space Engineers  
 > Spectre Divide  
 > Spellbreak  
+> Spiritfarer: Farewell Edition  
+> Splitgate 2  
+> Split Fiction  
 > Stardew Valley  
 > Starfield  
 > STAR WARS: Dark Forces Remaster  
@@ -590,6 +656,7 @@ There are 702 games on this list.
 > Star Wars Outlaws  
 > Steelrising  
 > Stellaris Galactic Paragons  
+> Stellar Blade  
 > Stormgate  
 > Stranded: Alien Dawn  
 > Stranger of Paradise: Final Fantasy Origin  
@@ -597,12 +664,14 @@ There are 702 games on this list.
 > Street Fighter 6  
 > Stronghold Warlords  
 > Suicide Squad: Kill the Justice League  
+> Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars  
 > Super Magbot  
 > Super Monkey Ball Banana Mania  
 > System Shock  
 > Tales of Kenzera: ZAU  
 > Tales of Vesperia Definitive Edition  
 > Team Fortress 2  
+> Teenage Mutant Ninja Turtles: Tactical Takedown  
 > TEKKEN 8  
 > Terraria  
 > Terra Nil  
@@ -620,20 +689,24 @@ There are 702 games on this list.
 > The Dark Pictures Anthology: House of Ashes  
 > The Descendant  
 > The DioField Chronicle  
+> The Elder Scrolls IV: Oblivion Remastered  
 > The Elder Scrolls Online  
 > The Elder Scrolls V: Skyrim Special Edition  
 > The Evil Within 2  
 > The Expanse A Telltale Series  
 > THE FINALS  
+> The First Berserker: Khazan  
 > The First Descendant  
 > The Forest  
 > The Invincible  
 > The Last Of Us Part 1  
+> The Last of Us Part II Remastered  
 > The Legend of Legacy HD Remastered  
 > Lord of the Rings Online  
 > The Mims Beginning  
 > The Outer Worlds  
 > The Outlast Trials  
+> The Rogue Prince of Persia  
 > The Sims 4  
 > The Surge 2  
 > The Talos Principle 2  
@@ -647,6 +720,7 @@ There are 702 games on this list.
 > Tom Clancy's The Division  
 > Tom Clancy's The Division 2  
 > Tony Hawk's Pro Skater 1 + 2  
+> Tony Hawk's Pro Skater 3 + 4  
 > Totally Accurate Battlegrounds  
 > Total War PHARAOH  
 > Total War: ROME II - Emperor Edition  
@@ -658,6 +732,7 @@ There are 702 games on this list.
 > Tunic  
 > Twelve Minutes  
 > Two Point Campus  
+> UNBEATABLE  
 > Undecember  
 > Until Dawn  
 > Untitled Goose Game  
@@ -670,12 +745,14 @@ There are 702 games on this list.
 > Virtua Fighter 5 R.E.V.O.  
 > Visions of Mana  
 > Voidtrain  
+> VOID/BREAKER  
 > V Rising  
 > Wallpaper Engine  
 > Warframe  
 > Warhammer 40,000: Battlesector  
 > Warhammer 40,000: Chaos Gate - Daemonhunters  
 > Warhammer 40,000: Darktide  
+> Warhammer 40,000: Dawn of War - Definitive Edition  
 > Warhammer 40000 Rogue Trader  
 > Warhammer 40,000: Space Marine 2  
 > Warhammer 40,000: Speed Freeks  
@@ -686,6 +763,8 @@ There are 702 games on this list.
 > Way of the Hunter  
 > Werewolf: The Apocalypse Earthblood  
 > We Were Here  
+> Where Winds Meet  
+> Wildgate  
 > Winter Ember  
 > Wolfenstein II: The New Colossus  
 > Wolfenstein: Youngblood  
@@ -693,10 +772,12 @@ There are 702 games on this list.
 > World of Tanks Blitz  
 > World of Warcraft  
 > World of Warcraft Classic  
+> World War Z  
 > Wo Long Fallen Dynasty  
 > WrestleQuest  
 > Wuthering Waves  
 > WWE 2K22  
+> WWE 2K25  
 > X-Plane 11  
 > Yakuza 6 The Song of Life  
 > Young Souls  
